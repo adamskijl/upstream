@@ -1,2 +1,0 @@
-# upstream
-Uploads for training
